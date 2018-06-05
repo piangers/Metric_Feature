@@ -1,0 +1,38 @@
+# This file contains metadata for your plugin. Beginning
+# with version 1.8 this is the preferred way to supply information about a
+# plugin. The current method of embedding metadata in __init__.py will
+# be supported until version 2.0
+
+# This file should be included when you package your plugin.
+
+# Mandatory items:
+
+
+[general]
+name=Mertic
+qgisMinimumVersion=2.0
+description=Provides CAD-like input for QGIS : digitize features with precise numerical mouse constraints (demo : https://vimeo.com/85052231)
+version=0.60
+author=Olivier Dalang, Denis Rouzaud
+email=olivier.dalang@gmail.com
+
+# end of mandatory metadata
+
+# Optional items:
+
+# Uncomment the following line and add your changelog entries:
+changelog=several bug fixes
+
+# tags are comma separated with spaces allowed
+tags=digitizing, cad, vector
+
+homepage=https://github.com/olivierdalang/CadInput
+tracker=https://github.com/olivierdalang/CadInput/issues
+repository=https://github.com/olivierdalang/CadInput
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version
+deprecated=False
+
