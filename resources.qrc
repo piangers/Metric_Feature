@@ -1,6 +1,6 @@
 <!DOCTYPE RCC>
 <RCC version="1.0">
-    <qresource prefix="/plugins/cadinput">
+    <qresource prefix="/plugins/MeasureFeature">
         <file>icon.png</file>
     </qresource>
 </RCC>

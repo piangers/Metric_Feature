@@ -9,7 +9,7 @@
 
 
 [general]
-name=Mertic
+name=MeasureFeature
 qgisMinimumVersion=2.0
 description=Provides CAD-like input for QGIS : digitize features with precise numerical mouse constraints (demo : https://vimeo.com/85052231)
 version=0.60
@@ -26,9 +26,9 @@ changelog=several bug fixes
 # tags are comma separated with spaces allowed
 tags=digitizing, cad, vector
 
-homepage=https://github.com/olivierdalang/CadInput
-tracker=https://github.com/olivierdalang/CadInput/issues
-repository=https://github.com/olivierdalang/CadInput
+homepage=https://github.com/piangers/Metric
+tracker=https://github.com/piangers/Metric/issues
+repository=https://github.com/piangers/Metric
 icon=icon.png
 # experimental flag
 experimental=True
